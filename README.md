@@ -8,3 +8,4 @@ Copy "quick_primitives" folder inside the "addons" folder of your Godot project 
 
 ## How to use it
 Just click on the primitive icon to instantiate it in the current scene.
+![Image](quick-primitives.png "Quick Primitives Toolbar")
